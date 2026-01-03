@@ -1,32 +1,16 @@
-# WEBSITE-DESIGN
-INDEX:-
-*.BASIC WEBSITE WITH HTML,CSS,JS.
-*.This have multiple pages.
-*.We can't use css and js separatly.We included css and js files in html file.
-*.Because some devices can't accept separate files.
+# Simple Website with Navigation Bar 🌐
 
-#PAGES
-1.index.html:-
-    This is the home page of our website.
+This project is a simple website that includes a clean and functional navigation bar. It is built to demonstrate basic website structure and navigation using HTML, CSS, and JavaScript.
 
-2.contactus.html:-
-    This page contains our contact details like, mobile number, gmail address and other informations.
-    
-3.signup.html:-
-    This page used to create new account for our website.
-    
-4.login.html:-
-    This page used to access our account in our website.
-    
-5.services.html:- 
-    This page is used to gave our services.
-    
-6.forgetpassword.html:-
-    This page is used to recover our account.In this page verify you with your proof.
-    
-7.resetpassword.html:-
-    This page is used to change our password.
-    
-8.otp verification.html:-
-    This is the final step of account recovery.In this page we verify otp.
+## 🚀 Features
+- Simple and clean navigation bar
+- Responsive layout
+- Easy-to-understand code structure
+- Beginner-friendly project
 
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (optional, if used)
+
+## 📂 Project Structure
